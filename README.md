@@ -4,8 +4,9 @@ Java Billing Application:
 
 # Design Patterns used are :
 
-1) Factory Pattern 
-2) Singleton Pattern
+1) Factory Pattern is used in this project to handle the file generation object depending upon the validation result of the order and take a decision whether to create an object of "CreateErrorLogs"(for writing error to txt) class or a "CreateBillCsv"(for writing the output to csv) .
+
+2) Singleton Pattern is used to create a single global instance of the database object which can be used among various classes of the project.
 
 ## Steps to Build: 
 
