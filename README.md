@@ -1,3 +1,3 @@
-# CMPE 202 Individual Project Rajuptvs
+# CMPE 202 Individual Project
 
 Java Billing Application
